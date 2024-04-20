@@ -1,1 +1,1 @@
-Create PhotoCut
+Init
